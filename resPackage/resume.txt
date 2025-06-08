@@ -1,0 +1,93 @@
+"Shiva Chouhan
+https://www.linkedin.com/in/shiva-chouhan/
+ Guna(M.P.) India  9098740915/9174091528  chouhanshiva01234@gmail.com  https://github.com/CoolShivas
+Summary Hello, my name is Shiva, and I am a full-stack developer passionate about designing and developing visually
+appealing and user-friendly websites and web applications. I have recently completed a comprehensive
+development course from an open-source platform, gaining up-to-date skills and knowledge in the industry. I
+am proficient in programming languages and technologies, including HTML, CSS, JavaScript, React.js, Next.js,
+Node.js, and Express.js. I excel in problem-solving, take ownership of projects, and consistently strive to
+exceed client expectations by delivering projects on time. I enjoy collaborating with other professionals to
+create web solutions that align with client's brand identities and business objectives. I am committed to
+staying current with industry trends and actively seek opportunities to enhance my skills and broaden my
+expertise across the full-stack development. If you require a skilled and versatile full-stack developer, please
+feel free to contact me.
+Experience Indian Railways
+Junior Computer Operator
+2018
+Guna (M.P.)
+As a junior computer operator, my job involves using the Crew Management System software to book the
+engine and align train bogies, as well as schedule the train pilots and co-pilots who will operate the train. This
+is done under the private tender of a private entity within the Indian Railways.
+Projects Mail Box Client
+https://celadon-dango-e5a74d.netlify.app/
+24/June/2024 - 28/July/2024
+ https://github.com/CoolShivas/007--Redux_Mail_Box_Client
+- Developed a sign-up and sign-in authentication page using Firebase REST APIs to enhance user account
+security
+- Implemented a user-friendly interface for composing and sending emails to recipients
+- Created a real-time inbox feature, displaying received emails with a red dot indicator for unread messages
+- Integrated an unread mail count display in the sidebar for easy reference
+- Enabled users to check their sent mail records, providing insights into recipients
+- Incorporated a logout button for a seamless user experience in the mailbox
+Authentication, Firebase Rest Api's, Real-Time Inbox, Unread Message Count, User-Friendly Ui
+Expense Tracker
+https://velvety-duckanoo-eef0f6.netlify.app/
+13/May/2024 - 31/May/2024
+ https://github.com/CoolShivas/React_Exp_Tracker02
+- Implemented authentication page for sign-up and sign-in using Firebase REST APIs
+- Developed a feature to switch between dark and light mode
+- Integrated REST APIs to add and retrieve expenses from the server
+- Implemented account verification and profile completion functionalities
+- Added premium button activation for purchases exceeding ten thousand rupees
+- Implemented download functionality for expense files.
+CSV File, Premium Button, Verify Profile, Dark & Light Mode, Authentication, Rest Api's
+URL Shortener 06/April/2025 - 16/April/2025
+ https://github.com/CoolShivas/026--URL_Shortener
+- Built a functional URL Shortener web application with HTML for structure, CSS for styling, and Node.js for the
+backend logic and server.
+- Created a custom server/backend.
+- Implemented a custom server-side component.
+- Node.js backend with a custom server.
+- Utilized npm to manage dependencies and implemented a custom
+server- side component.
+custom server, node.js, backend logic, npm dependencies, backend server
+Weather App 04/April/2025 - 06/April/2025
+ https://github.com/CoolShivas/025--Weather_App
+- Developed a CLI-based Weather Application using Node.js, leveraging real-time APIs to fetch and display
+updated weather data directly in the command line.
+- Fetch and display updated weather data.
+- Dynamically retrieve and present current weather information.
+- Consumes...to fetch, process, and display.
+- Access live weather updates.
+Education Jiwaji University
+English and American Literature, Poetry, Drama, Fiction, Analytical and
+Communication Skills.
+June 2021 - June 2023
+Master of Arts in English (Distance)
+Jiwaji University
+Accounting and Finance, Business Management, Economics.
+June 2015 - June 2018
+Bachelor of Commerce - B.Com (Distance)
+RGPV University
+Computer Programming, Consumer
+Electronics, Advanced Communication
+and Integrated Circuits.
+July 2015 - May 2018
+Diploma in Electronics and Telecommunication Engineering (Regular)
+Technical Skills Scripting Language : JavaScript
+Libraries : React.js, Redux.js, React Router
+Version Control : Git
+Web Development Languages : HTML, CSS
+Framework : Next.js, Express.js
+Other Tools : Axios, CrudCrud, Mock REST APIs, Firebase REST APIs and MongoDB Atlas
+Programming Languages & Technologies : Node.js
+Soft Skills Adaptable Active Listener Interpersonal Communication
+Problem Solving Punctual Time Management
+Interests Book Reading Listening Music Yoga and Meditation
+Honors and Awards Youth Camp
+Selected in top 10 students for the 14th All India Inter-University National Integration Youth Camp event
+organized by Foundation for Amity and National Solidarity in December 24 - December 28, 2011.
+First Rank
+Ranked first among batch of 61 students in 5th semester in my Electronics and Telecommunication
+Engineering Branch.
+Languages English Hindi"

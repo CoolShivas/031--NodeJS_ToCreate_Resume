@@ -1,0 +1,12 @@
+{
+  "name": "respackage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "shiva": "node --watch index.js"
+  },
+  "author": "\"shiva chouhan\"",
+  "license": "ISC",
+  "description": ""
+}
